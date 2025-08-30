@@ -4,7 +4,8 @@
 This project validates core features of the **Modern Bank Portal API**, including:
 - Customer Registration  
 - Customer Login  
-- Customer Balance  
+- Customer Balance
+- TBC
 
 The project demonstrates:
 - Manual API test cases (written in Excel)  
@@ -19,6 +20,11 @@ The project demonstrates:
 - **Excel (.xlsx)** for structured test case documentation  
 - **MySQL** (Database reference)  
 - Familiarity with bug tracking workflow (Jira-style reporting)
+
+---
+
+##  API Documentation (Swagger):
+- Swagger Link (https://app.swaggerhub.com/apis/MUNTASIR_2/Modern_Bank_API/1.0.0)
 
 ---
 
